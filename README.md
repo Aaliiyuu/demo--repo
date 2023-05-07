@@ -1,2 +1,2 @@
 # demo--repo
-my new repository
+my new project
